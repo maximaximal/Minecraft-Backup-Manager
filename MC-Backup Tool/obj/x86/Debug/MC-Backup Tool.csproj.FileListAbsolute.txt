@@ -1,0 +1,14 @@
+C:\Users\Max\Minecraft-Backup-Manager\MC-Backup Tool\bin\Debug\MC-Backup Tool.exe
+C:\Users\Max\Minecraft-Backup-Manager\MC-Backup Tool\bin\Debug\MC-Backup Tool.pdb
+C:\Users\Max\Minecraft-Backup-Manager\MC-Backup Tool\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Max\Minecraft-Backup-Manager\MC-Backup Tool\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Max\Minecraft-Backup-Manager\MC-Backup Tool\obj\x86\Debug\MC_Backup_Tool.Backup_Create.resources
+C:\Users\Max\Minecraft-Backup-Manager\MC-Backup Tool\obj\x86\Debug\MC_Backup_Tool.changeinfo.resources
+C:\Users\Max\Minecraft-Backup-Manager\MC-Backup Tool\obj\x86\Debug\MC_Backup_Tool.Form1.resources
+C:\Users\Max\Minecraft-Backup-Manager\MC-Backup Tool\obj\x86\Debug\MC_Backup_Tool.showlog.resources
+C:\Users\Max\Minecraft-Backup-Manager\MC-Backup Tool\obj\x86\Debug\MC_Backup_Tool.Properties.Resources.resources
+C:\Users\Max\Minecraft-Backup-Manager\MC-Backup Tool\obj\x86\Debug\MC_Backup_Tool.update.resources
+C:\Users\Max\Minecraft-Backup-Manager\MC-Backup Tool\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Max\Minecraft-Backup-Manager\MC-Backup Tool\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Max\Minecraft-Backup-Manager\MC-Backup Tool\obj\x86\Debug\MC-Backup Tool.exe
+C:\Users\Max\Minecraft-Backup-Manager\MC-Backup Tool\obj\x86\Debug\MC-Backup Tool.pdb
